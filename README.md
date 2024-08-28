@@ -58,7 +58,7 @@
     - Launch Instance
 
 6) Prometheus
-    - Create an Ubuntu 20.04 VM instance and call it "Prometheus"
+    - Create an Ubuntu 22.04 VM instance and call it "Prometheus"
     - Instance type: t2.micro
     - Security Group (Open): 9090 and 22 to 0.0.0.0/0
     - Key pair: Select or create a new keypair
